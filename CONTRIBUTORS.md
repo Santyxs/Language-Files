@@ -6,6 +6,14 @@ This document lists the contributors of language files found in this repository.
 
 * cs: Lemafor
 * pl: Lemafor
+* tr: hhhhh-ckr
+* es: Santyxs
+* sk: takatalvi
+* zh_CN: SnowCutieOwO
+* fr: Shroomy_Spag
+* uk: AKRGamesUa
+* pt-BR: zerorulez
+* zh_TW: 510208
 
 ## [v2.17.0](https://github.com/Shopkeepers/Language-Files/blob/v2.17.0/CONTRIBUTORS.md)
 
